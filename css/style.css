@@ -135,6 +135,46 @@ body.menu #map {
 }
 
 #map {
-  background: url(../images/shoalcreeksubway.svg);
+  /*background: url(../images/shoalcreeksubway.svg);*/
   background-repeat: no-repeat;
+}
+
+.menu-weather {
+  background: url("../images/weather.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 75%;
+}
+
+.menu-wildlife {
+  background: url("../images/wildlife.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 75%;
+}
+
+.menu-flow {
+  background: url("../images/water-level.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 75%;
+}
+
+.menu-calendar {
+  background: url("../images/calendar.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 75%;
+}
+.menu-share {
+  background: url("../images/share.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 75%;
+}
+.menu-contact {
+  background: url("../images/contact.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 75%;
 }
